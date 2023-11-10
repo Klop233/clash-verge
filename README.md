@@ -34,7 +34,7 @@ A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="h
 - 集群负载均衡设计，高速专线(兼容老客户端)，极低延迟，无视晚高峰，4K 秒开
 - 全球首家 Hysteria 协议机场，将在今年 10 月上线更快的 `tuic` 协议(Clash Verge 客户端最佳搭配)
 - 解锁流媒体及 ChatGPT
-- 官网：https://dg1.top -->
+- 官网：https://dg1.top
 
 </details>
 
@@ -45,7 +45,7 @@ A <a href="https://github.com/Dreamacro/clash">Clash</a> GUI based on <a href="h
 - 年付低至 9.99 元，价格低，速度不减
 
 <details>
-<summary>Promotion Detail</summary>
+<summary>Promotion Detail</summary> -->
 
 - 中国大陆 BGP 网络接入
 - IEPL 专线网络
